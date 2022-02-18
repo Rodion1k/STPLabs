@@ -5,4 +5,5 @@ public class ItCompany<T extends Worker>  {
     // внутренний класс сюда
     private List<T> workers;
     // enum чего?
+
 }
