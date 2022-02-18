@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<IT_company>
+    <ItCompany>
+
+    </ItCompany>
+    <administrators>
+        <NetworkAdministrator>
+
+        </NetworkAdministrator>
+        <SystemAdministrator>
+
+        </SystemAdministrator>
+    </administrators>
+    <director>
+        <Director>
+
+        </Director>
+    </director>
+    <programmers>
+        <Junior>
+
+        </Junior>
+        <Middle>
+
+        </Middle>
+        <Senior>
+
+        </Senior>
+    </programmers>
+</IT_company>
