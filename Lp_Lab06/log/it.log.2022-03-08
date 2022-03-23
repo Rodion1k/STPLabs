@@ -1,0 +1,79 @@
+08.03.2022 11:27:42 [main] INFO  com.main.Main - starting program
+08.03.2022 11:27:42 [main] INFO  com.main.Main - connection with BD
+08.03.2022 11:28:31 [main] INFO  com.main.Main - starting program
+08.03.2022 11:28:32 [main] INFO  com.main.Main - connection with BD
+08.03.2022 11:28:40 [main] INFO  com.main.Main - starting program
+08.03.2022 11:28:40 [main] INFO  com.main.Main - connection with BD
+08.03.2022 11:28:56 [main] INFO  com.main.Main - starting program
+08.03.2022 11:28:56 [main] INFO  com.main.Main - connection with BD
+08.03.2022 11:32:51 [main] INFO  com.main.Main - starting program
+08.03.2022 11:32:52 [main] INFO  com.main.Main - connection with BD
+08.03.2022 11:34:53 [main] INFO  com.main.Main - starting program
+08.03.2022 11:34:53 [main] INFO  com.main.Main - connection with BD
+08.03.2022 12:08:34 [main] INFO  com.main.Main - starting program
+08.03.2022 12:08:34 [main] INFO  com.main.Main - connection with BD
+08.03.2022 12:08:34 [main] INFO  com.main.Main - goods: 
+
+08.03.2022 12:08:34 [main] INFO  com.main.Main - Product{name='Asus Zenbook', price=200.0, description='Ноутбук, крутой!', quantity=20}
+08.03.2022 12:08:34 [main] INFO  com.main.Main - Product{name='Macbook Pro 2020', price=400.0, description='Ноутбук, крутой^2!', quantity=10}
+08.03.2022 12:08:34 [main] INFO  com.main.Main - Customers :
+
+08.03.2022 12:08:34 [main] INFO  com.main.Main - END
+08.03.2022 12:08:54 [main] INFO  com.main.Main - starting program
+08.03.2022 12:08:54 [main] INFO  com.main.Main - connection with BD
+08.03.2022 12:08:54 [main] INFO  com.main.Main - goods: 
+
+08.03.2022 12:08:55 [main] INFO  com.main.Main - Product{name='Asus Zenbook', price=200.0, description='Ноутбук, крутой!', quantity=20}
+08.03.2022 12:08:55 [main] INFO  com.main.Main - Product{name='Macbook Pro 2020', price=400.0, description='Ноутбук, крутой^2!', quantity=10}
+08.03.2022 12:08:55 [main] INFO  com.main.Main - Customers :
+
+08.03.2022 12:08:55 [main] INFO  com.main.Main - END
+08.03.2022 12:09:30 [main] INFO  com.main.Main - starting program
+08.03.2022 12:09:31 [main] INFO  com.main.Main - connection with BD
+08.03.2022 12:09:31 [main] INFO  com.main.Main - goods: 
+
+08.03.2022 12:09:31 [main] INFO  com.main.Main - Product{name='Asus Zenbook', price=200.0, description='Ноутбук, крутой!', quantity=20}
+08.03.2022 12:09:31 [main] INFO  com.main.Main - Product{name='Macbook Pro 2020', price=400.0, description='Ноутбук, крутой^2!', quantity=10}
+08.03.2022 12:09:31 [main] INFO  com.main.Main - Customers :
+
+08.03.2022 12:09:31 [main] INFO  com.main.Main - END
+08.03.2022 12:10:01 [main] INFO  com.main.Main - starting program
+08.03.2022 12:10:01 [main] INFO  com.main.Main - connection with BD
+08.03.2022 12:10:01 [main] INFO  com.main.Main - goods: 
+
+08.03.2022 12:10:01 [main] INFO  com.main.Main - Product{name='Asus Zenbook', price=200.0, description='Ноутбук, крутой!', quantity=20}
+08.03.2022 12:10:01 [main] INFO  com.main.Main - Product{name='Macbook Pro 2020', price=400.0, description='Ноутбук, крутой^2!', quantity=10}
+08.03.2022 12:10:01 [main] INFO  com.main.Main - Customers :
+
+08.03.2022 12:10:01 [main] INFO  com.main.Main - Customer{name='Google', phoneNumber='344-342-443', Address='Gomel'}
+08.03.2022 12:10:11 [main] INFO  com.main.Main - Customer{name='Google', phoneNumber='344-342-443', Address='Gomel'}
+08.03.2022 12:10:13 [main] INFO  com.main.Main - Customer{name='Google', phoneNumber='344-342-443', Address='Gomel'}
+08.03.2022 12:11:07 [main] INFO  com.main.Main - starting program
+08.03.2022 12:11:07 [main] INFO  com.main.Main - connection with BD
+08.03.2022 12:11:07 [main] INFO  com.main.Main - goods: 
+
+08.03.2022 12:11:07 [main] INFO  com.main.Main - Product{name='Asus Zenbook', price=200.0, description='Ноутбук, крутой!', quantity=20}
+08.03.2022 12:11:07 [main] INFO  com.main.Main - Product{name='Macbook Pro 2020', price=400.0, description='Ноутбук, крутой^2!', quantity=10}
+08.03.2022 12:11:07 [main] INFO  com.main.Main - Customers :
+
+08.03.2022 12:11:07 [main] INFO  com.main.Main - Customer{name='Google', phoneNumber='344-342-443', Address='Gomel'}
+08.03.2022 12:11:28 [main] INFO  com.main.Main - starting program
+08.03.2022 12:11:28 [main] INFO  com.main.Main - connection with BD
+08.03.2022 12:11:28 [main] INFO  com.main.Main - goods: 
+
+08.03.2022 12:11:28 [main] INFO  com.main.Main - Product{name='Asus Zenbook', price=200.0, description='Ноутбук, крутой!', quantity=20}
+08.03.2022 12:11:28 [main] INFO  com.main.Main - Product{name='Macbook Pro 2020', price=400.0, description='Ноутбук, крутой^2!', quantity=10}
+08.03.2022 12:11:28 [main] INFO  com.main.Main - Customers :
+
+08.03.2022 12:11:28 [main] INFO  com.main.Main - Customer{name='Google', phoneNumber='344-342-443', Address='Gomel'}
+08.03.2022 12:11:47 [main] INFO  com.main.Main - END
+08.03.2022 12:11:58 [main] INFO  com.main.Main - starting program
+08.03.2022 12:11:58 [main] INFO  com.main.Main - connection with BD
+08.03.2022 12:11:58 [main] INFO  com.main.Main - goods: 
+
+08.03.2022 12:11:58 [main] INFO  com.main.Main - Product{name='Asus Zenbook', price=200.0, description='Ноутбук, крутой!', quantity=20}
+08.03.2022 12:11:58 [main] INFO  com.main.Main - Product{name='Macbook Pro 2020', price=400.0, description='Ноутбук, крутой^2!', quantity=10}
+08.03.2022 12:11:58 [main] INFO  com.main.Main - Customers :
+
+08.03.2022 12:11:58 [main] INFO  com.main.Main - Customer{name='Google', phoneNumber='344-342-443', Address='Gomel'}
+08.03.2022 12:12:12 [main] INFO  com.main.Main - END

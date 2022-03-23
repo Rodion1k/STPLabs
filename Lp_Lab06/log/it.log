@@ -1,0 +1,10 @@
+11.03.2022 16:54:49 [main] INFO  com.main.Main - starting program
+11.03.2022 16:54:50 [main] INFO  com.main.Main - connection with BD
+11.03.2022 16:54:50 [main] INFO  com.main.Main - goods: 
+
+11.03.2022 16:54:50 [main] INFO  com.main.Main - Product{name='Asus Zenbook', price=200.0, description='Ноутбук, крутой!', quantity=20}
+11.03.2022 16:54:50 [main] INFO  com.main.Main - Product{name='Macbook Pro 2020', price=400.0, description='Ноутбук, крутой^2!', quantity=10}
+11.03.2022 16:54:50 [main] INFO  com.main.Main - Customers :
+
+11.03.2022 16:54:50 [main] INFO  com.main.Main - Customer{name='Google', phoneNumber='344-342-443', Address='Gomel'}
+11.03.2022 16:54:50 [main] INFO  com.main.Main - END
