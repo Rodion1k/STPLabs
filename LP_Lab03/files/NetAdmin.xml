@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<admins>
+    <Admin>
+        <NetExp>2</NetExp>
+        <SkillsLevel>second</SkillsLevel>
+        <Salary>400</Salary>
+    </Admin>
+    <Admin>
+        <NetExp>3</NetExp>
+        <SkillsLevel>first</SkillsLevel>
+        <Salary>600</Salary>
+    </Admin>
+</admins>

@@ -1,0 +1,137 @@
+01.03.2022 22:26:01 [main] INFO  main.Main - start
+01.03.2022 22:26:01 [main] INFO  IT_company.ItCompany - компания создана
+01.03.2022 22:26:01 [main] INFO  IT_company.ItCompany - добавлен работник
+01.03.2022 22:26:01 [main] INFO  IT_company.ItCompany - добавлен работник
+01.03.2022 22:26:01 [main] INFO  IT_company.ItCompany - добавлен работник
+01.03.2022 22:26:01 [main] INFO  IT_company.ItCompany - добавлен работник
+01.03.2022 22:26:01 [main] INFO  IT_company.ItCompany - добавлен работник
+01.03.2022 22:26:01 [main] INFO  IT_company.ItCompany - добавлен работник
+01.03.2022 22:26:01 [main] INFO  IT_company.ItCompany - произошла сортировка работников
+01.03.2022 22:26:01 [main] INFO  IT_company.ItCompany - директор нашел нужных работников
+01.03.2022 22:26:01 [main] INFO  main.Main - finally
+01.03.2022 22:30:10 [main] INFO  main.Main - start
+01.03.2022 22:30:10 [main] INFO  IT_company.ItCompany - компания создана
+01.03.2022 22:30:10 [main] INFO  IT_company.ItCompany - добавлен работник
+01.03.2022 22:30:10 [main] INFO  IT_company.ItCompany - добавлен работник
+01.03.2022 22:30:10 [main] INFO  IT_company.ItCompany - добавлен работник
+01.03.2022 22:30:10 [main] INFO  IT_company.ItCompany - добавлен работник
+01.03.2022 22:30:10 [main] INFO  IT_company.ItCompany - добавлен работник
+01.03.2022 22:30:10 [main] INFO  IT_company.ItCompany - добавлен работник
+01.03.2022 22:30:10 [main] INFO  IT_company.ItCompany - произошла сортировка работников
+01.03.2022 22:30:10 [main] INFO  IT_company.ItCompany - директор нашел нужных работников
+01.03.2022 22:30:10 [main] INFO  main.Main - finally
+01.03.2022 22:49:40 [main] INFO  main.Main - start
+01.03.2022 22:49:40 [main] INFO  IT_company.ItCompany - компания создана
+01.03.2022 22:49:40 [main] INFO  IT_company.ItCompany - добавлен работник
+01.03.2022 22:49:40 [main] INFO  IT_company.ItCompany - добавлен работник
+01.03.2022 22:49:40 [main] INFO  IT_company.ItCompany - добавлен работник
+01.03.2022 22:49:40 [main] INFO  IT_company.ItCompany - добавлен работник
+01.03.2022 22:49:40 [main] INFO  IT_company.ItCompany - добавлен работник
+01.03.2022 22:49:40 [main] INFO  IT_company.ItCompany - добавлен работник
+01.03.2022 22:49:40 [main] INFO  IT_company.ItCompany - произошла сортировка работников
+01.03.2022 22:49:40 [main] INFO  IT_company.ItCompany - директор нашел нужных работников
+01.03.2022 22:49:40 [main] INFO  main.Main - exception
+01.03.2022 22:49:40 [main] INFO  main.Main - file\info.json (Системе не удается найти указанный путь)
+01.03.2022 22:49:40 [main] INFO  main.Main - finally
+01.03.2022 22:50:06 [main] INFO  main.Main - start
+01.03.2022 22:50:06 [main] INFO  IT_company.ItCompany - компания создана
+01.03.2022 22:50:06 [main] INFO  IT_company.ItCompany - добавлен работник
+01.03.2022 22:50:06 [main] INFO  IT_company.ItCompany - добавлен работник
+01.03.2022 22:50:06 [main] INFO  IT_company.ItCompany - добавлен работник
+01.03.2022 22:50:06 [main] INFO  IT_company.ItCompany - добавлен работник
+01.03.2022 22:50:06 [main] INFO  IT_company.ItCompany - добавлен работник
+01.03.2022 22:50:06 [main] INFO  IT_company.ItCompany - добавлен работник
+01.03.2022 22:50:06 [main] INFO  IT_company.ItCompany - произошла сортировка работников
+01.03.2022 22:50:06 [main] INFO  IT_company.ItCompany - директор нашел нужных работников
+01.03.2022 22:50:06 [main] INFO  main.Main - exception
+01.03.2022 22:50:06 [main] INFO  main.Main - file\info.json (Системе не удается найти указанный путь)
+01.03.2022 22:50:06 [main] INFO  main.Main - finally
+01.03.2022 22:50:19 [main] INFO  main.Main - start
+01.03.2022 22:50:19 [main] INFO  IT_company.ItCompany - компания создана
+01.03.2022 22:50:19 [main] INFO  IT_company.ItCompany - добавлен работник
+01.03.2022 22:50:19 [main] INFO  IT_company.ItCompany - добавлен работник
+01.03.2022 22:50:19 [main] INFO  IT_company.ItCompany - добавлен работник
+01.03.2022 22:50:19 [main] INFO  IT_company.ItCompany - добавлен работник
+01.03.2022 22:50:19 [main] INFO  IT_company.ItCompany - добавлен работник
+01.03.2022 22:50:19 [main] INFO  IT_company.ItCompany - добавлен работник
+01.03.2022 22:50:19 [main] INFO  IT_company.ItCompany - произошла сортировка работников
+01.03.2022 22:50:19 [main] INFO  IT_company.ItCompany - директор нашел нужных работников
+01.03.2022 22:50:20 [main] INFO  main.Main - exception
+01.03.2022 22:50:20 [main] INFO  main.Main - file\info.json (Системе не удается найти указанный путь)
+01.03.2022 22:50:20 [main] INFO  main.Main - finally
+01.03.2022 22:50:28 [main] INFO  main.Main - start
+01.03.2022 22:50:28 [main] INFO  IT_company.ItCompany - компания создана
+01.03.2022 22:50:28 [main] INFO  IT_company.ItCompany - добавлен работник
+01.03.2022 22:50:28 [main] INFO  IT_company.ItCompany - добавлен работник
+01.03.2022 22:50:28 [main] INFO  IT_company.ItCompany - добавлен работник
+01.03.2022 22:50:28 [main] INFO  IT_company.ItCompany - добавлен работник
+01.03.2022 22:50:28 [main] INFO  IT_company.ItCompany - добавлен работник
+01.03.2022 22:50:28 [main] INFO  IT_company.ItCompany - добавлен работник
+01.03.2022 22:50:28 [main] INFO  IT_company.ItCompany - произошла сортировка работников
+01.03.2022 22:50:28 [main] INFO  IT_company.ItCompany - директор нашел нужных работников
+01.03.2022 22:50:28 [main] INFO  main.Main - exception
+01.03.2022 22:50:28 [main] INFO  main.Main - file\info.json (Системе не удается найти указанный путь)
+01.03.2022 22:50:28 [main] INFO  main.Main - finally
+01.03.2022 22:50:58 [main] INFO  main.Main - start
+01.03.2022 22:50:58 [main] INFO  IT_company.ItCompany - компания создана
+01.03.2022 22:50:58 [main] INFO  IT_company.ItCompany - добавлен работник
+01.03.2022 22:50:58 [main] INFO  IT_company.ItCompany - добавлен работник
+01.03.2022 22:50:58 [main] INFO  IT_company.ItCompany - добавлен работник
+01.03.2022 22:50:58 [main] INFO  IT_company.ItCompany - добавлен работник
+01.03.2022 22:50:58 [main] INFO  IT_company.ItCompany - добавлен работник
+01.03.2022 22:50:58 [main] INFO  IT_company.ItCompany - добавлен работник
+01.03.2022 22:50:58 [main] INFO  IT_company.ItCompany - произошла сортировка работников
+01.03.2022 22:50:58 [main] INFO  IT_company.ItCompany - директор нашел нужных работников
+01.03.2022 22:50:58 [main] INFO  main.Main - exception
+01.03.2022 22:50:58 [main] INFO  main.Main - file\info.json (Системе не удается найти указанный путь)
+01.03.2022 22:50:58 [main] INFO  main.Main - finally
+01.03.2022 22:51:19 [main] INFO  main.Main - start
+01.03.2022 22:51:19 [main] INFO  IT_company.ItCompany - компания создана
+01.03.2022 22:51:19 [main] INFO  IT_company.ItCompany - добавлен работник
+01.03.2022 22:51:19 [main] INFO  IT_company.ItCompany - добавлен работник
+01.03.2022 22:51:19 [main] INFO  IT_company.ItCompany - добавлен работник
+01.03.2022 22:51:19 [main] INFO  IT_company.ItCompany - добавлен работник
+01.03.2022 22:51:19 [main] INFO  IT_company.ItCompany - добавлен работник
+01.03.2022 22:51:19 [main] INFO  IT_company.ItCompany - добавлен работник
+01.03.2022 22:51:19 [main] INFO  IT_company.ItCompany - произошла сортировка работников
+01.03.2022 22:51:19 [main] INFO  IT_company.ItCompany - директор нашел нужных работников
+01.03.2022 22:51:19 [main] INFO  main.Main - exception
+01.03.2022 22:51:19 [main] INFO  main.Main - file\info.json (Системе не удается найти указанный путь)
+01.03.2022 22:51:19 [main] INFO  main.Main - finally
+01.03.2022 22:51:32 [main] INFO  main.Main - start
+01.03.2022 22:51:32 [main] INFO  IT_company.ItCompany - компания создана
+01.03.2022 22:51:32 [main] INFO  IT_company.ItCompany - добавлен работник
+01.03.2022 22:51:32 [main] INFO  IT_company.ItCompany - добавлен работник
+01.03.2022 22:51:32 [main] INFO  IT_company.ItCompany - добавлен работник
+01.03.2022 22:51:32 [main] INFO  IT_company.ItCompany - добавлен работник
+01.03.2022 22:51:32 [main] INFO  IT_company.ItCompany - добавлен работник
+01.03.2022 22:51:32 [main] INFO  IT_company.ItCompany - добавлен работник
+01.03.2022 22:51:32 [main] INFO  IT_company.ItCompany - произошла сортировка работников
+01.03.2022 22:51:32 [main] INFO  IT_company.ItCompany - директор нашел нужных работников
+01.03.2022 22:52:07 [main] INFO  main.Main - exception
+01.03.2022 22:52:07 [main] INFO  main.Main - file\info.json (Системе не удается найти указанный путь)
+01.03.2022 22:52:07 [main] INFO  main.Main - finally
+01.03.2022 22:52:12 [main] INFO  main.Main - start
+01.03.2022 22:52:12 [main] INFO  IT_company.ItCompany - компания создана
+01.03.2022 22:52:12 [main] INFO  IT_company.ItCompany - добавлен работник
+01.03.2022 22:52:12 [main] INFO  IT_company.ItCompany - добавлен работник
+01.03.2022 22:52:12 [main] INFO  IT_company.ItCompany - добавлен работник
+01.03.2022 22:52:12 [main] INFO  IT_company.ItCompany - добавлен работник
+01.03.2022 22:52:12 [main] INFO  IT_company.ItCompany - добавлен работник
+01.03.2022 22:52:12 [main] INFO  IT_company.ItCompany - добавлен работник
+01.03.2022 22:52:12 [main] INFO  IT_company.ItCompany - произошла сортировка работников
+01.03.2022 22:52:12 [main] INFO  IT_company.ItCompany - директор нашел нужных работников
+01.03.2022 22:52:26 [main] INFO  IT_company.ItCompany - компания создана
+01.03.2022 22:52:50 [main] INFO  main.Main - finally
+01.03.2022 22:52:52 [main] INFO  main.Main - start
+01.03.2022 22:52:52 [main] INFO  IT_company.ItCompany - компания создана
+01.03.2022 22:52:52 [main] INFO  IT_company.ItCompany - добавлен работник
+01.03.2022 22:52:52 [main] INFO  IT_company.ItCompany - добавлен работник
+01.03.2022 22:52:52 [main] INFO  IT_company.ItCompany - добавлен работник
+01.03.2022 22:52:52 [main] INFO  IT_company.ItCompany - добавлен работник
+01.03.2022 22:52:52 [main] INFO  IT_company.ItCompany - добавлен работник
+01.03.2022 22:52:52 [main] INFO  IT_company.ItCompany - добавлен работник
+01.03.2022 22:52:52 [main] INFO  IT_company.ItCompany - произошла сортировка работников
+01.03.2022 22:52:52 [main] INFO  IT_company.ItCompany - директор нашел нужных работников
+01.03.2022 22:52:52 [main] INFO  IT_company.ItCompany - компания создана
+01.03.2022 22:53:28 [main] INFO  main.Main - finally

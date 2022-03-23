@@ -1,0 +1,211 @@
+02.03.2022 19:53:35 [main] INFO  main.Main - start
+02.03.2022 19:53:35 [main] INFO  IT_company.ItCompany - компания создана
+02.03.2022 19:53:35 [main] INFO  IT_company.ItCompany - добавлен работник
+02.03.2022 19:53:35 [main] INFO  IT_company.ItCompany - добавлен работник
+02.03.2022 19:53:35 [main] INFO  IT_company.ItCompany - добавлен работник
+02.03.2022 19:53:35 [main] INFO  IT_company.ItCompany - добавлен работник
+02.03.2022 19:53:35 [main] INFO  IT_company.ItCompany - добавлен работник
+02.03.2022 19:53:35 [main] INFO  IT_company.ItCompany - добавлен работник
+02.03.2022 19:53:35 [main] INFO  IT_company.ItCompany - произошла сортировка работников
+02.03.2022 19:53:35 [main] INFO  IT_company.ItCompany - директор нашел нужных работников
+02.03.2022 19:53:36 [main] INFO  main.Main - Json Serialize
+02.03.2022 19:53:36 [main] INFO  IT_company.ItCompany - компания создана
+02.03.2022 19:53:36 [main] INFO  main.Main - Json Deserialize
+02.03.2022 19:53:50 [main] INFO  main.Main - exception
+02.03.2022 19:53:50 [main] INFO  main.Main - Name is null
+02.03.2022 19:53:50 [main] INFO  main.Main - finally
+02.03.2022 19:54:25 [main] INFO  main.Main - start
+02.03.2022 19:54:25 [main] INFO  IT_company.ItCompany - компания создана
+02.03.2022 19:54:25 [main] INFO  IT_company.ItCompany - добавлен работник
+02.03.2022 19:54:25 [main] INFO  IT_company.ItCompany - добавлен работник
+02.03.2022 19:54:25 [main] INFO  IT_company.ItCompany - добавлен работник
+02.03.2022 19:54:25 [main] INFO  IT_company.ItCompany - добавлен работник
+02.03.2022 19:54:25 [main] INFO  IT_company.ItCompany - добавлен работник
+02.03.2022 19:54:25 [main] INFO  IT_company.ItCompany - добавлен работник
+02.03.2022 19:54:25 [main] INFO  IT_company.ItCompany - произошла сортировка работников
+02.03.2022 19:54:25 [main] INFO  IT_company.ItCompany - директор нашел нужных работников
+02.03.2022 19:54:25 [main] INFO  main.Main - Json Serialize
+02.03.2022 19:54:25 [main] INFO  IT_company.ItCompany - компания создана
+02.03.2022 19:54:25 [main] INFO  main.Main - Json Deserialize
+02.03.2022 19:56:02 [main] INFO  main.Main - exception
+02.03.2022 19:56:02 [main] INFO  main.Main - Name is null
+02.03.2022 19:56:02 [main] INFO  main.Main - finally
+02.03.2022 19:57:58 [main] INFO  main.Main - start
+02.03.2022 19:57:58 [main] INFO  IT_company.ItCompany - компания создана
+02.03.2022 19:57:58 [main] INFO  IT_company.ItCompany - добавлен работник
+02.03.2022 19:57:58 [main] INFO  IT_company.ItCompany - добавлен работник
+02.03.2022 19:57:58 [main] INFO  IT_company.ItCompany - добавлен работник
+02.03.2022 19:57:58 [main] INFO  IT_company.ItCompany - добавлен работник
+02.03.2022 19:57:58 [main] INFO  IT_company.ItCompany - добавлен работник
+02.03.2022 19:57:58 [main] INFO  IT_company.ItCompany - добавлен работник
+02.03.2022 19:57:58 [main] INFO  IT_company.ItCompany - произошла сортировка работников
+02.03.2022 19:57:58 [main] INFO  IT_company.ItCompany - директор нашел нужных работников
+02.03.2022 19:57:58 [main] INFO  main.Main - Json Serialize
+02.03.2022 19:57:58 [main] INFO  IT_company.ItCompany - компания создана
+02.03.2022 19:57:58 [main] INFO  main.Main - Json Deserialize
+02.03.2022 19:58:08 [main] INFO  main.Main - exception
+02.03.2022 19:58:08 [main] INFO  main.Main - For input string: "
+        "
+02.03.2022 19:58:08 [main] INFO  main.Main - finally
+02.03.2022 19:58:15 [main] INFO  main.Main - start
+02.03.2022 19:58:15 [main] INFO  IT_company.ItCompany - компания создана
+02.03.2022 19:58:15 [main] INFO  IT_company.ItCompany - добавлен работник
+02.03.2022 19:58:15 [main] INFO  IT_company.ItCompany - добавлен работник
+02.03.2022 19:58:15 [main] INFO  IT_company.ItCompany - добавлен работник
+02.03.2022 19:58:15 [main] INFO  IT_company.ItCompany - добавлен работник
+02.03.2022 19:58:15 [main] INFO  IT_company.ItCompany - добавлен работник
+02.03.2022 19:58:15 [main] INFO  IT_company.ItCompany - добавлен работник
+02.03.2022 19:58:15 [main] INFO  IT_company.ItCompany - произошла сортировка работников
+02.03.2022 19:58:15 [main] INFO  IT_company.ItCompany - директор нашел нужных работников
+02.03.2022 19:58:15 [main] INFO  main.Main - Json Serialize
+02.03.2022 19:58:15 [main] INFO  IT_company.ItCompany - компания создана
+02.03.2022 19:58:15 [main] INFO  main.Main - Json Deserialize
+02.03.2022 19:58:46 [main] INFO  main.Main - exception
+02.03.2022 19:58:46 [main] INFO  main.Main - For input string: "
+        "
+02.03.2022 19:58:46 [main] INFO  main.Main - finally
+02.03.2022 19:58:46 [main] INFO  main.Main - start
+02.03.2022 19:58:46 [main] INFO  IT_company.ItCompany - компания создана
+02.03.2022 19:58:46 [main] INFO  IT_company.ItCompany - добавлен работник
+02.03.2022 19:58:46 [main] INFO  IT_company.ItCompany - добавлен работник
+02.03.2022 19:58:46 [main] INFO  IT_company.ItCompany - добавлен работник
+02.03.2022 19:58:46 [main] INFO  IT_company.ItCompany - добавлен работник
+02.03.2022 19:58:46 [main] INFO  IT_company.ItCompany - добавлен работник
+02.03.2022 19:58:46 [main] INFO  IT_company.ItCompany - добавлен работник
+02.03.2022 19:58:46 [main] INFO  IT_company.ItCompany - произошла сортировка работников
+02.03.2022 19:58:46 [main] INFO  IT_company.ItCompany - директор нашел нужных работников
+02.03.2022 19:58:46 [main] INFO  main.Main - Json Serialize
+02.03.2022 19:58:46 [main] INFO  IT_company.ItCompany - компания создана
+02.03.2022 19:58:46 [main] INFO  main.Main - Json Deserialize
+02.03.2022 19:59:08 [main] INFO  main.Main - exception
+02.03.2022 19:59:08 [main] INFO  main.Main - For input string: "
+        "
+02.03.2022 19:59:08 [main] INFO  main.Main - finally
+02.03.2022 19:59:10 [main] INFO  main.Main - start
+02.03.2022 19:59:10 [main] INFO  IT_company.ItCompany - компания создана
+02.03.2022 19:59:10 [main] INFO  IT_company.ItCompany - добавлен работник
+02.03.2022 19:59:10 [main] INFO  IT_company.ItCompany - добавлен работник
+02.03.2022 19:59:10 [main] INFO  IT_company.ItCompany - добавлен работник
+02.03.2022 19:59:10 [main] INFO  IT_company.ItCompany - добавлен работник
+02.03.2022 19:59:10 [main] INFO  IT_company.ItCompany - добавлен работник
+02.03.2022 19:59:10 [main] INFO  IT_company.ItCompany - добавлен работник
+02.03.2022 19:59:10 [main] INFO  IT_company.ItCompany - произошла сортировка работников
+02.03.2022 19:59:10 [main] INFO  IT_company.ItCompany - директор нашел нужных работников
+02.03.2022 19:59:10 [main] INFO  main.Main - Json Serialize
+02.03.2022 19:59:10 [main] INFO  IT_company.ItCompany - компания создана
+02.03.2022 19:59:10 [main] INFO  main.Main - Json Deserialize
+02.03.2022 19:59:34 [main] INFO  main.Main - exception
+02.03.2022 19:59:34 [main] INFO  main.Main - For input string: "
+        "
+02.03.2022 19:59:34 [main] INFO  main.Main - finally
+02.03.2022 20:00:02 [main] INFO  main.Main - start
+02.03.2022 20:00:02 [main] INFO  IT_company.ItCompany - компания создана
+02.03.2022 20:00:02 [main] INFO  IT_company.ItCompany - добавлен работник
+02.03.2022 20:00:02 [main] INFO  IT_company.ItCompany - добавлен работник
+02.03.2022 20:00:02 [main] INFO  IT_company.ItCompany - добавлен работник
+02.03.2022 20:00:02 [main] INFO  IT_company.ItCompany - добавлен работник
+02.03.2022 20:00:02 [main] INFO  IT_company.ItCompany - добавлен работник
+02.03.2022 20:00:02 [main] INFO  IT_company.ItCompany - добавлен работник
+02.03.2022 20:00:02 [main] INFO  IT_company.ItCompany - произошла сортировка работников
+02.03.2022 20:00:02 [main] INFO  IT_company.ItCompany - директор нашел нужных работников
+02.03.2022 20:00:02 [main] INFO  main.Main - Json Serialize
+02.03.2022 20:00:02 [main] INFO  IT_company.ItCompany - компания создана
+02.03.2022 20:00:02 [main] INFO  main.Main - Json Deserialize
+02.03.2022 20:00:39 [main] INFO  main.Main - exception
+02.03.2022 20:00:39 [main] INFO  main.Main - For input string: "
+        "
+02.03.2022 20:00:39 [main] INFO  main.Main - finally
+02.03.2022 20:01:23 [main] INFO  main.Main - start
+02.03.2022 20:01:23 [main] INFO  IT_company.ItCompany - компания создана
+02.03.2022 20:01:23 [main] INFO  IT_company.ItCompany - добавлен работник
+02.03.2022 20:01:23 [main] INFO  IT_company.ItCompany - добавлен работник
+02.03.2022 20:01:23 [main] INFO  IT_company.ItCompany - добавлен работник
+02.03.2022 20:01:23 [main] INFO  IT_company.ItCompany - добавлен работник
+02.03.2022 20:01:23 [main] INFO  IT_company.ItCompany - добавлен работник
+02.03.2022 20:01:23 [main] INFO  IT_company.ItCompany - добавлен работник
+02.03.2022 20:01:23 [main] INFO  IT_company.ItCompany - произошла сортировка работников
+02.03.2022 20:01:23 [main] INFO  IT_company.ItCompany - директор нашел нужных работников
+02.03.2022 20:01:23 [main] INFO  main.Main - Json Serialize
+02.03.2022 20:01:23 [main] INFO  IT_company.ItCompany - компания создана
+02.03.2022 20:01:23 [main] INFO  main.Main - Json Deserialize
+02.03.2022 20:01:30 [main] INFO  main.Main - exception
+02.03.2022 20:01:30 [main] INFO  main.Main - For input string: "
+        "
+02.03.2022 20:01:30 [main] INFO  main.Main - finally
+02.03.2022 20:05:09 [main] INFO  main.Main - start
+02.03.2022 20:05:09 [main] INFO  IT_company.ItCompany - компания создана
+02.03.2022 20:05:09 [main] INFO  IT_company.ItCompany - добавлен работник
+02.03.2022 20:05:09 [main] INFO  IT_company.ItCompany - добавлен работник
+02.03.2022 20:05:09 [main] INFO  IT_company.ItCompany - добавлен работник
+02.03.2022 20:05:09 [main] INFO  IT_company.ItCompany - добавлен работник
+02.03.2022 20:05:09 [main] INFO  IT_company.ItCompany - добавлен работник
+02.03.2022 20:05:09 [main] INFO  IT_company.ItCompany - добавлен работник
+02.03.2022 20:05:09 [main] INFO  IT_company.ItCompany - произошла сортировка работников
+02.03.2022 20:05:09 [main] INFO  IT_company.ItCompany - директор нашел нужных работников
+02.03.2022 20:05:09 [main] INFO  main.Main - Json Serialize
+02.03.2022 20:05:09 [main] INFO  IT_company.ItCompany - компания создана
+02.03.2022 20:05:09 [main] INFO  main.Main - Json Deserialize
+02.03.2022 20:05:23 [main] INFO  main.Main - exception
+02.03.2022 20:05:23 [main] INFO  main.Main - No enum constant IT_company.programmers.SkillsLevel.2
+02.03.2022 20:05:23 [main] INFO  main.Main - finally
+02.03.2022 20:06:17 [main] INFO  main.Main - start
+02.03.2022 20:06:17 [main] INFO  IT_company.ItCompany - компания создана
+02.03.2022 20:06:17 [main] INFO  IT_company.ItCompany - добавлен работник
+02.03.2022 20:06:17 [main] INFO  IT_company.ItCompany - добавлен работник
+02.03.2022 20:06:17 [main] INFO  IT_company.ItCompany - добавлен работник
+02.03.2022 20:06:17 [main] INFO  IT_company.ItCompany - добавлен работник
+02.03.2022 20:06:17 [main] INFO  IT_company.ItCompany - добавлен работник
+02.03.2022 20:06:17 [main] INFO  IT_company.ItCompany - добавлен работник
+02.03.2022 20:06:17 [main] INFO  IT_company.ItCompany - произошла сортировка работников
+02.03.2022 20:06:17 [main] INFO  IT_company.ItCompany - директор нашел нужных работников
+02.03.2022 20:06:17 [main] INFO  main.Main - Json Serialize
+02.03.2022 20:06:17 [main] INFO  IT_company.ItCompany - компания создана
+02.03.2022 20:06:17 [main] INFO  main.Main - Json Deserialize
+02.03.2022 20:06:23 [main] INFO  main.Main - exception
+02.03.2022 20:06:23 [main] INFO  main.Main - No enum constant IT_company.programmers.SkillsLevel.2
+02.03.2022 20:06:23 [main] INFO  main.Main - finally
+02.03.2022 20:08:19 [main] INFO  main.Main - start
+02.03.2022 20:08:19 [main] INFO  IT_company.ItCompany - компания создана
+02.03.2022 20:08:19 [main] INFO  IT_company.ItCompany - добавлен работник
+02.03.2022 20:08:19 [main] INFO  IT_company.ItCompany - добавлен работник
+02.03.2022 20:08:19 [main] INFO  IT_company.ItCompany - добавлен работник
+02.03.2022 20:08:19 [main] INFO  IT_company.ItCompany - добавлен работник
+02.03.2022 20:08:19 [main] INFO  IT_company.ItCompany - добавлен работник
+02.03.2022 20:08:19 [main] INFO  IT_company.ItCompany - добавлен работник
+02.03.2022 20:08:19 [main] INFO  IT_company.ItCompany - произошла сортировка работников
+02.03.2022 20:08:19 [main] INFO  IT_company.ItCompany - директор нашел нужных работников
+02.03.2022 20:08:19 [main] INFO  main.Main - Json Serialize
+02.03.2022 20:08:19 [main] INFO  IT_company.ItCompany - компания создана
+02.03.2022 20:08:19 [main] INFO  main.Main - Json Deserialize
+02.03.2022 20:10:21 [main] INFO  main.Main - exception
+02.03.2022 20:10:21 [main] INFO  main.Main - No enum constant IT_company.programmers.SkillsLevel.2
+02.03.2022 20:10:21 [main] INFO  main.Main - finally
+02.03.2022 20:10:22 [main] INFO  main.Main - start
+02.03.2022 20:10:22 [main] INFO  IT_company.ItCompany - компания создана
+02.03.2022 20:10:22 [main] INFO  IT_company.ItCompany - добавлен работник
+02.03.2022 20:10:22 [main] INFO  IT_company.ItCompany - добавлен работник
+02.03.2022 20:10:22 [main] INFO  IT_company.ItCompany - добавлен работник
+02.03.2022 20:10:22 [main] INFO  IT_company.ItCompany - добавлен работник
+02.03.2022 20:10:22 [main] INFO  IT_company.ItCompany - добавлен работник
+02.03.2022 20:10:22 [main] INFO  IT_company.ItCompany - добавлен работник
+02.03.2022 20:10:22 [main] INFO  IT_company.ItCompany - произошла сортировка работников
+02.03.2022 20:10:22 [main] INFO  IT_company.ItCompany - директор нашел нужных работников
+02.03.2022 20:10:22 [main] INFO  main.Main - Json Serialize
+02.03.2022 20:10:22 [main] INFO  IT_company.ItCompany - компания создана
+02.03.2022 20:10:22 [main] INFO  main.Main - Json Deserialize
+02.03.2022 20:10:37 [main] INFO  main.Main - finally
+02.03.2022 20:29:06 [main] INFO  main.Main - start
+02.03.2022 20:29:06 [main] INFO  IT_company.ItCompany - компания создана
+02.03.2022 20:29:06 [main] INFO  IT_company.ItCompany - добавлен работник
+02.03.2022 20:29:06 [main] INFO  IT_company.ItCompany - добавлен работник
+02.03.2022 20:29:06 [main] INFO  IT_company.ItCompany - добавлен работник
+02.03.2022 20:29:06 [main] INFO  IT_company.ItCompany - добавлен работник
+02.03.2022 20:29:06 [main] INFO  IT_company.ItCompany - добавлен работник
+02.03.2022 20:29:06 [main] INFO  IT_company.ItCompany - добавлен работник
+02.03.2022 20:29:06 [main] INFO  IT_company.ItCompany - произошла сортировка работников
+02.03.2022 20:29:06 [main] INFO  IT_company.ItCompany - директор нашел нужных работников
+02.03.2022 20:29:06 [main] INFO  main.Main - Json Serialize
+02.03.2022 20:29:06 [main] INFO  IT_company.ItCompany - компания создана
+02.03.2022 20:29:06 [main] INFO  main.Main - Json Deserialize
+02.03.2022 20:29:06 [main] INFO  main.Main - parse Xml
+02.03.2022 20:29:06 [main] INFO  main.Main - finally
