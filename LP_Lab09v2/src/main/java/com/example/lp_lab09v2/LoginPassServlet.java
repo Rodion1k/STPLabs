@@ -54,7 +54,7 @@ public class LoginPassServlet extends HttpServlet {
         String role = request.getParameter("role");
         HttpSession session = request.getSession();
         try {
-            ConnectorDb connectorDb = new ConnectorDb();// TODO connection к нужной бд
+            ConnectorDb connectorDb = new ConnectorDb();
             var connection = connectorDb.getConnection("Users");
             RequestManager requestManager = new RequestManager(connection);
             //dataBase.FillTableUsers();

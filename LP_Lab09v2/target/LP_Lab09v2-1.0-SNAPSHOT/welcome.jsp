@@ -50,7 +50,7 @@
     </div>
 </form>
 
-<h3>Telegram channels:</h3>
+<h3>Time Table:</h3>
 <table>
     <tr>
         <td>Group</td>
@@ -67,7 +67,7 @@
             for (Subject subject : listChannel) {
     %>
     <tr>
-        <td>@<%=subject.getGroup()%></td>
+        <td><%=subject.getGroup()%></td>
         <td><%=subject.getAuditorium()%></td>
         <td><%=subject.getSubject()%></td>
         <td><%=subject.getTeacher()%></td>
